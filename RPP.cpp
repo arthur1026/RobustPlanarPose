@@ -1,6 +1,9 @@
 #include "RPP.h"
 #include <cstdio>
 
+#define _USE_MATH_DEFINES
+#include <math.h>
+
 using namespace std;
 using namespace cv;
 
